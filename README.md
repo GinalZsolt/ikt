@@ -1,2 +1,3 @@
 # ikt
-szmitógepről írtam
+#szmitógepről írtam
+#konfliktus

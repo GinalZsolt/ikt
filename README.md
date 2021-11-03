@@ -1,1 +1,2 @@
 # ikt
+szmitógepről írtam
